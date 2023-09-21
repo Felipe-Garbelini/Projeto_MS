@@ -90,6 +90,12 @@ body{
     
 }
 
+#img-logo1{
+    height: auto;
+    width: auto;
+    left: -270px;
+}
+
 #img-logo1:hover{
     transform: scale(1.1);
 }
