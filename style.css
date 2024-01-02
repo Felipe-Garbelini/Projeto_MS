@@ -76,8 +76,8 @@ body{
 .conteudo{
     
     background-color:#ffba597c;
-    height:1070px ;
-    width:1600px ;
+    height:500px ;
+    width:1200px ;
     margin-top: 90px;
     margin-left: 120px;
     border-radius: 20px;
@@ -86,7 +86,7 @@ body{
 
 .container-img{
     text-align: center;
-    max-width: 800px; /* Defina a largura máxima desejada para a div */
+    max-width: 1000px; /* Defina a largura máxima desejada para a div */
     
 }
 
